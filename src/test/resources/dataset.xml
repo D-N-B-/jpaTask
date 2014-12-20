@@ -1,0 +1,19 @@
+<!DOCTYPE dataset SYSTEM "src/test/resources/dataset.dtd">
+<dataset>
+    <table name="EMPLOYEE">
+        <column>EMPLOYEE_ID</column>
+        <column>EMPLOYEE_NAME</column>
+<row>
+<value>1</value>
+<value>Doe</value>
+</row>
+<row>
+<value>2</value>
+<value>Met</value>
+</row>
+<row>
+<value>3</value>
+<value>Vasya</value>
+</row>
+        </table>
+        </dataset>
